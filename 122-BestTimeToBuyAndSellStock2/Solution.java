@@ -6,7 +6,7 @@ class Solution {
         int r = 1;
 
         while(r < prices.length){
-            if(prices[r] > prices[l] && prices[r] > prices[r-1]){
+            if(prices[r] > prices[r-1]){
                 profit_atual = prices[r] - prices[l];
             }
             else{
