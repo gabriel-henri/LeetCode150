@@ -1,5 +1,3 @@
-package 383-RansomNote;
-
 import java.util.HashMap;
 import java.util.Map;
 

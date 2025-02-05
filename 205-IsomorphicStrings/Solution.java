@@ -1,5 +1,3 @@
-package 205-IsomorphicStrings;
-
 import java.util.HashMap;
 import java.util.Map;
 
